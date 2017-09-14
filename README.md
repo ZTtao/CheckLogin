@@ -1,0 +1,13 @@
+#Lambda学习项目
+校验登录状态功能
+<h2>输入模板：</h2>
+<pre>
+<code>
+{
+  "token":"",
+  "cid":"",
+  "cname":"",
+  "cip":""
+}
+</code>
+</pre>
